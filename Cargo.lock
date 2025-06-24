@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "curseforge-wrapper"
+name = "curseforge-api-wrapper"
 version = "0.1.0"
